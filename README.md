@@ -21,6 +21,6 @@ Sâo listas nas quais a ordem dos elementos não importa, ou seja, não altera a
 São listas nas quais deve-se atentar para a informação depositada, pois a ordem importa para o resultado final;
 
 <h2>Ênfase:</h2>
-Serve para dar destaque a uma informação cujo autor do texto julgue como importante, visto que a palavraou frase fica em <strong>negrito</strong><div class=""></div>
+Serve para dar destaque a uma informação cujo autor do texto julgue como importante, visto que a palavraou frase fica em <strong>negrito</strong>.
 </body>
 </html>
